@@ -7,4 +7,5 @@ I will update my portfolio with write-ups and projects once in a while.
 
 ## So far:
 overthewire-bandit.md
+;
 Brutus-Sherlock.md
